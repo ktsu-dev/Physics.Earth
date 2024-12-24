@@ -1,5 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <PackageReference Include="ktsu.PhysicalQuantity" Version="1.0.0-alpha.15" />
+    <PackageReference Include="ktsu.PhysicalQuantity" Version="1.0.0-alpha.16" />
   </ItemGroup>
 </Project>
