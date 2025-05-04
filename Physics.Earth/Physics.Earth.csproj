@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="ktsu.Sdk.Lib/1.8.0">
   <ItemGroup>
     <PackageReference Include="ktsu.PhysicalQuantity" Version="1.0.0-alpha.23" />
   </ItemGroup>
