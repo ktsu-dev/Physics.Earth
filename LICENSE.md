@@ -1,6 +1,6 @@
 MIT License
 
-https://github.com/ktsu-dev/ktsu-dev/Physics.Earth
+https://github.com/ktsu-dev/Physics.Earth
 
 Copyright (c) 2023-2025 ktsu-dev
 
